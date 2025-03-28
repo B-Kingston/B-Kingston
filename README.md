@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bailee Kingston
-- 👀 I’m interested in GoLang, Embedded Systems
-- 🌱 I’m currently learning C, Golang, Python
+- Hello, I’m Bailee Kingston
+- I’m interested in GoLang, Embedded Systems
+- I’m currently learning C, Golang, Python
 
 <!---
 B-Kingston/B-Kingston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
